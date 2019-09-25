@@ -1,1 +1,1 @@
-# SJSU-GO-WEB
+# SJSU-GO-web
